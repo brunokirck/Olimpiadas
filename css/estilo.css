@@ -1,0 +1,58 @@
+body {
+    background-color: #f5f5dc ;
+    width: 100%;
+}
+h1{
+    color: #0015d1;
+}
+
+.navbar .container-fluid .navbar-brand{
+
+    color: white;
+}
+
+.collapse .navbar-nav .nav-item .nav-link{
+
+    color: white;
+}
+
+.btn{
+
+    color: white;
+}
+
+.cor1{
+    background-color: #0015d1;
+    
+} 
+.cor2{
+    background-color: #f5f5dc ;
+
+}
+
+.cor3{
+    background-color: black;
+}
+
+.cor4{
+    background-color: #b90401;
+}
+
+.cor5{
+    background-color: #b89c00;
+    
+}
+
+.cor6{
+    background-color: #013b07;
+}
+
+.modalidades{
+    padding: 20px;
+    display: flex;
+}
+.infos{
+    padding: 20px;
+    width: 70%;
+}
+
